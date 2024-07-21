@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CapgeminiForm/static/css/main.ff0bb28c.css",
+    "main.js": "/CapgeminiForm/static/js/main.8ea68c94.js",
+    "static/js/453.a142f4eb.chunk.js": "/CapgeminiForm/static/js/453.a142f4eb.chunk.js",
+    "index.html": "/CapgeminiForm/index.html",
+    "main.ff0bb28c.css.map": "/CapgeminiForm/static/css/main.ff0bb28c.css.map",
+    "main.8ea68c94.js.map": "/CapgeminiForm/static/js/main.8ea68c94.js.map",
+    "453.a142f4eb.chunk.js.map": "/CapgeminiForm/static/js/453.a142f4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0bb28c.css",
+    "static/js/main.8ea68c94.js"
+  ]
+}
